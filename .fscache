@@ -1,8 +1,10 @@
-::res://::1419264235
+::res://::1419299518
+bullet.gd::GDScript::1419299518::
 bullet.png::ImageTexture::1419107906::
-bullet.scn::PackedScene::1419263504::
+bullet.xml::PackedScene::1419299240::
 icon.png::ImageTexture::1418784439::
-root.gd::GDScript::1419264235::
-root.scn::PackedScene::1419264119::
-ship.scn::PackedScene::1419262761::
+root.gd::GDScript::1419299435::
+root.xml::PackedScene::1419299423::
+ship.gd::GDScript::1419299435::
+ship.xml::PackedScene::1419299222::
 ship1.png::ImageTexture::1419096136::
